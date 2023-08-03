@@ -8,13 +8,15 @@ Software developer
 - 💬 Ask me about JavaScript, React, Angular, Python and much much more!
 - ⚡ Fun fact: I'm a gamer! ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black)
 
+![](https://komarev.com/ghpvc/?username=carlosmiranda-softdev&color=bluegreen&style=for-the-badge&color=36BCFF)
+<a href="https://www.github.com/carlosmiranda-softdev" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/carlosmiranda-softdev?logo=github&style=for-the-badge&color=36BFFF&labelColor=0f172a" /></a>
+
 ### My top projects [under construction]
 
-* A | tool
-* B | tool
-* C | tool
-* D | tool
-* E | tool
+* [Portfolio](https://carlosmiranda-softdev.github.io/Portafolio/) | React, Css, WebPack
+* [Typing App](https://carlosmiranda-softdev.github.io/TypingApp/) | React, Css, Webpack, Babel
+* [Bored Bot](https://carlosmiranda-softdev.github.io/Boredbot/) | React, Css, Webpack
 
 #### 💻 My Toolbox ↗️
   Frontend:<br/>
