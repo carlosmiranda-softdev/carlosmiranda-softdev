@@ -12,7 +12,7 @@ Software developer
 <a href="https://www.github.com/carlosmiranda-softdev" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/carlosmiranda-softdev?logo=github&style=for-the-badge&color=36BFFF&labelColor=0f172a" /></a>
 
-### My top projects [under construction]
+### My top projects
 
 * [Portfolio](https://carlosmiranda-softdev.github.io/Portafolio/) | React, Css, WebPack
 * [Typing App](https://carlosmiranda-softdev.github.io/TypingApp/) | React, Css, Webpack, Babel
